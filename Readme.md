@@ -1,3 +1,5 @@
 # backend project 
 
-this project is based on youtube like video sharing and tweet sharing platform
+ git commit -m "add initial files for backend"
+On branch master
+nothing to commit, working tree clean
